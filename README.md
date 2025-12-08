@@ -61,8 +61,8 @@ The website introduces the brand, showcases its products, and provides customers
 <h2>🚀 How to Run Locally</h2>
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/EduuUuW/kosh-charcutaria-ecommerce.git
+cd kosh-charcutaria-ecommerce
 open index.html
 ```
 <h2>📌 Project Status</h2> <p> The website is under active development. Several improvements are planned, including: </p> <ul> <li>Additional product sections and categories;</li> <li>Enhanced UI animations and layout refinements;</li> <li>Better image optimization for performance;</li> <li>More delivery and ordering integrations;</li> <li>Accessibility improvements and UX optimizations.</li> </ul> <p> New updates will continue to be released as the project evolves. </p>
